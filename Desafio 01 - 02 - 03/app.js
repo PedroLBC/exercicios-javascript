@@ -1,0 +1,5 @@
+var nome = window.prompt('Qual seu nome? ')
+window.alert(`Olá ${nome}, somarei 2 números de sua escolha`)
+var n1 = Number(window.prompt('Digite um número: '))
+var n2 = Number(window.prompt('Digite outro número: '))
+document.write(`A soma entre ${n1} e ${n2} é de ${n1 + n2}`)
