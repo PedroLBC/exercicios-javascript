@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    background-color: rgb(59, 59, 59);
+    color: white;
+}
+#escrever {
+    font-size: larger;
+    font-family: "Poppins", sans-serif;
+}
+input {
+    caret-color: #ff0000;
+}
