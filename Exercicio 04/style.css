@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+    background-color: rgb(65, 65, 65);
+    color: rgb(255, 14, 14);
+    font-family: "Poppins", sans-serif;
+}
+input {
+    background: rgb(65, 65, 65);
+    border: none;
+    border-radius: 7px;
+    border-block-end: 2px solid rgb(255, 14, 14);
+    color: rgb(255, 14, 14);
+}
+input:focus {
+    outline: none;
+}
+button {
+    color: rgb(255, 14, 14);
+    background: rgb(65, 65, 65);
+    border: 1px solid rgb(255, 14, 14);
+    border-radius: 10px;
+    padding: 10px;
+}
