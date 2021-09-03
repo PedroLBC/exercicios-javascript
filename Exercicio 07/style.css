@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    background-color: rgb(65, 65, 65);
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+#dolar {
+    width: 80px;
+    height: 30px;
+}
+#euro {
+    position: relative;
+    left: 13px;
+    width: 80px;
+    height: 30px;
+}
+#resultado {
+    position: relative;
+    top: 40px;
+    right: 8.8em;
+    font-size: larger;
+}
